@@ -8,7 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KastetZen\\.nuget\\packages\\": {}
+    "C:\\Users\\kastet617Home\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\OneDrive - Tech Fabric LLC\\Azure\\Devops\\Test\\TestApp\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
       "projectPath": "D:\\OneDrive - Tech Fabric LLC\\Azure\\Devops\\Test\\TestApp\\WebApplication2\\WebApplication2.csproj",
-      "packagesPath": "C:\\Users\\KastetZen\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\kastet617Home\\.nuget\\packages\\",
       "outputPath": "D:\\OneDrive - Tech Fabric LLC\\Azure\\Devops\\Test\\TestApp\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KastetZen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kastet617Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
