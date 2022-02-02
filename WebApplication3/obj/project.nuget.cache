@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ho5W3vND0hsHqD9qNf2U5nE/j5sG7u9aaPvx2Bau66mtP77j8ftDEwUupLUidT/8lnLO6F6mpIs8ZnUwHKHzGQ==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive - Tech Fabric LLC\\Azure\\Devops\\Test\\TestApp\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kastet617Home\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
