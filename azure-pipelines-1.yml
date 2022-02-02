@@ -10,7 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: '4dffb9db-5e42-4e90-87e0-48fa2c5d8867'
+  dockerRegistryServiceConnection: 'tfSharpOffice'
   imageRepository: 'testappimage'
   containerRegistry: 'tfsharpoffice.azurecr.io'
   dockerfilePath: '**/Dockerfile'
